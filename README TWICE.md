@@ -9,8 +9,8 @@ Esto significa que todo lo que ya sabes aplicar también funciona en un README:
 "[]()" para enlaces,
 Así que no tienes que aprender nada nuevo.
 
-#Notas de trabajo
-##Añadir prefijos de actualizacion en código
+# Notas de trabajo
+## Añadir prefijos de actualizacion en código
 - Prefijo	Cuándo usarlo	Ejemplo
 - feat:	Añadiste un análisis nuevo.	feat: add IQR outlier flag to order_value
 - fix:	Corregiste errores o celdas rotas.	fix: correct median calculation in EDA
